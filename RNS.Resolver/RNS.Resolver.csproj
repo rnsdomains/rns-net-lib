@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>RNS Domains</Authors>
+    <Company>RIF Labs Limited</Company>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Nethereum.ENS" Version="3.3.0" />
+    <PackageReference Include="Nethereum.Web3" Version="3.3.0" />
+  </ItemGroup>
+
+</Project>
